@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536157805330",
+    "firebase_url": "https://social-29cf2.firebaseio.com",
+    "project_id": "social-29cf2",
+    "storage_bucket": "social-29cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536157805330:android:43ac7ccb0138d6e8",
+        "android_client_info": {
+          "package_name": "e.rick.social_network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536157805330-4qnqiqi2mcoehp351kh41p6s9d5af6gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.rick.social_network",
+            "certificate_hash": "ae904f62ac26f43ffbb10147725e5a0c91884930"
+          }
+        },
+        {
+          "client_id": "536157805330-qge60nu6egspc76657r7avf156vocrcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAui5RwuGqCE6gXutqNom0XsE1UDsaIRWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536157805330-qge60nu6egspc76657r7avf156vocrcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
