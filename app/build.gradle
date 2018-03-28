@@ -36,6 +36,7 @@ dependencies {
     implementation 'io.github.tonnyl:spark:0.1.0-alpha'
 
     compile "org.jetbrains.anko:anko:0.10.4"
+    implementation 'com.android.support:recyclerview-v7:27.1.0'
 }
 
 apply plugin: 'com.google.gms.google-services'

@@ -4,5 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="welcome_screen_grey">#e0e0e0</color>
+    <color name="home_background">#f5f5f5</color>
+
+    <color name="welcome_screen_grey">#eeeeee</color>
 </resources>
