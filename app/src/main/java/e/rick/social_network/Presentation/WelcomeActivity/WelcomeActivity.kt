@@ -19,6 +19,8 @@ class WelcomeActivity : AppCompatActivity(), WelcomeContract.View {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_welcome)
 
+        goToHomeActivity()
+
         setupBackgroundAnim()
         buttonListener()
 
